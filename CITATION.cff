@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite the following paper."
+authors:
+  - family-names: "Ayek"
+    given-names: "Almustafa Abd Elkader"
+    orcid: "https://orcid.org/0009-0007-5952-8239"
+  - family-names: "Loho"
+    given-names: "Mohannad Ali"
+    orcid: "https://orcid.org/0009-0002-5024-9798"
+  - family-names: "Karmoka"
+    given-names: "Suzan Fathe"
+    orcid: "https://orcid.org/0000-0003-4567-305X"
+title: "Satellite air quality monitoring: an interactive and accessible tool for spatiotemporal analysis using Google Earth Engine"
+doi: "10.1080/10095020.2025.2537352"
+date-released: "2025-09-03"
+url: "https://doi.org/10.1080/10095020.2025.2537352"
+repository-code: "https://github.com/YourUserName/YourRepoName"
+license: "CC-BY-4.0"
