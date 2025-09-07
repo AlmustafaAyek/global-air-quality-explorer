@@ -13,16 +13,7 @@
 - Flexible spatial/temporal analysis (daily, monthly, yearly).
 - Global coverage with customizable study regions (points, polygons, or quick city buffer).
 
----
 
-## 🖥️ Interface
-Example screenshots from the tool:
-
-![Interface Overview](docs/images/interface.png)
-![NO2 Map Example](docs/images/no2_map.png)
-![Time Series Example](docs/images/timeseries.png)
-
-*(Replace with your actual screenshots after uploading them to `docs/images/`.)*
 
 ---
 
